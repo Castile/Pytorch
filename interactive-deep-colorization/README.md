@@ -1,4 +1,5 @@
-
+## 在根目录上创建 models文件夹，里面的模型在主机，可以直接运行。
+> 2019-5-12 15:11:44
 # Interactive Deep Colorization
 
 [Project Page](https://richzhang.github.io/ideepcolor/) | [Paper](https://arxiv.org/abs/1705.02999) | [Demo Video](https://youtu.be/eL5ilZgM89Q) | [SIGGRAPH Talk](https://www.youtube.com/watch?v=rp5LUSbdsys)
